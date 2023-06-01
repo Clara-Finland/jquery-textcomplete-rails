@@ -180,7 +180,7 @@ if (typeof jQuery === 'undefined') {
     className: '',  // deprecated option
     dropdownClassName: 'dropdown-menu textcomplete-dropdown',
     maxCount: 10,
-    zIndex: '100',
+    zIndex: '2000',
     rightEdgeOffset: 30
   };
 
